@@ -121,3 +121,5 @@ const idInvalidCardCompanies = (invalidCards) => {
 }
 
 console.log(idInvalidCardCompanies(findInvalidCard(batch)))
+
+
