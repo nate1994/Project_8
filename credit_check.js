@@ -123,3 +123,4 @@ const idInvalidCardCompanies = (invalidCards) => {
 console.log(idInvalidCardCompanies(findInvalidCard(batch)))
 
 
+console.log('Hello World')
